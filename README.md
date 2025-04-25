@@ -18,7 +18,7 @@ This is a simple Python application that uses a graphical user interface (GUI) t
 2. Save the file as `kilo_converter_gui.py`
 3. Open your terminal or command prompt.
 4. Navigate to the folder where the file is saved.
-5. Run the program using:
+5. Run the program:
 
 ## What I Learned
 
